@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  workshop_demo:
+    build: ./
+    image: workshop_demo
+    
+  
+
